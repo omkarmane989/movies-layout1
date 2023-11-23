@@ -1,0 +1,16 @@
+a:link,
+a:visited {
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+  margin-bottom: 0px !important;
+  padding-left: 0px !important;
+}
+.d-flex {
+  display: flex;
+}
+
+.flex-direction-column {
+  flex-direction: column;
+}
